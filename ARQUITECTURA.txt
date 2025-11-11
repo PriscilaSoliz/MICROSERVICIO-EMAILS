@@ -6,11 +6,11 @@
 │                              CAPA DE PRESENTACIÓN                            │
 │                                                                              │
 │  ┌────────────────────────────────────────────────────────────────────┐    │
-│  │                      Frontend Angular (Puerto 4200)                 │    │
-│  │                                                                      │    │
-│  │  • Formulario de creación de citas                                  │    │
-│  │  • Formulario de registro de diagnósticos                           │    │
-│  │  • Interfaz de usuario                                              │    │
+│  │                      Frontend Angular (Puerto 4200)                │    │
+│  │                                                                    │    │
+│  │  • Formulario de creación de citas                                 │    │
+│  │  • Formulario de registro de diagnósticos                          │    │
+│  │  • Interfaz de usuario                                             │    │
 │  └────────────────────────────────────────────────────────────────────┘    │
 └───────────────────────────────────┬─────────────────────────────────────────┘
                                     │
